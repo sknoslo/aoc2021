@@ -8,8 +8,8 @@ python-versions = ">=3.5"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.10"
-content-hash = "9f3e21b010b934bab63f6db93729cc043e69d03a733dc5446ca0a16b5b69fda8"
+python-versions = "^3.9"
+content-hash = "14eee6304715d2753b949b4be71767ba808221bb71cdf918b406d4e6819dfe4c"
 
 [metadata.files]
 more-itertools = [
